@@ -1,0 +1,16 @@
+#list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+dt{
+    margin-top: 20px;
+}
+td{
+    padding: 15px;
+}
+table, th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
